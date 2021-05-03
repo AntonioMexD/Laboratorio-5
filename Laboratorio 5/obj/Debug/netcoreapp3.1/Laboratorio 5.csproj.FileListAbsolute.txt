@@ -1,0 +1,13 @@
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\bin\Debug\netcoreapp3.1\Laboratorio 5.exe
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\bin\Debug\netcoreapp3.1\Laboratorio 5.deps.json
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\bin\Debug\netcoreapp3.1\Laboratorio 5.runtimeconfig.json
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\bin\Debug\netcoreapp3.1\Laboratorio 5.runtimeconfig.dev.json
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\bin\Debug\netcoreapp3.1\Laboratorio 5.dll
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\bin\Debug\netcoreapp3.1\Laboratorio 5.pdb
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\obj\Debug\netcoreapp3.1\Laboratorio 5.csprojAssemblyReference.cache
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\obj\Debug\netcoreapp3.1\Laboratorio 5.AssemblyInfoInputs.cache
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\obj\Debug\netcoreapp3.1\Laboratorio 5.AssemblyInfo.cs
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\obj\Debug\netcoreapp3.1\Laboratorio 5.csproj.CoreCompileInputs.cache
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\obj\Debug\netcoreapp3.1\Laboratorio 5.dll
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\obj\Debug\netcoreapp3.1\Laboratorio 5.pdb
+D:\I-2021\Arquitectura de Software\Laboratorio 5\Laboratorio 5\obj\Debug\netcoreapp3.1\Laboratorio 5.genruntimeconfig.cache
